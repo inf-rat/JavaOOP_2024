@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Grundlagen/AB02_HelloWorld/AB02_HelloWorld.iml" filepath="$PROJECT_DIR$/Grundlagen/AB02_HelloWorld/AB02_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen/AB03_VariablenDatentypen/AB03_VariablenDatentypen.iml" filepath="$PROJECT_DIR$/Grundlagen/AB03_VariablenDatentypen/AB03_VariablenDatentypen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Grundlagen/Grundlagen.iml" filepath="$PROJECT_DIR$/Grundlagen/Grundlagen.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaOOP_2024.iml" filepath="$PROJECT_DIR$/.idea/JavaOOP_2024.iml" />
     </modules>
