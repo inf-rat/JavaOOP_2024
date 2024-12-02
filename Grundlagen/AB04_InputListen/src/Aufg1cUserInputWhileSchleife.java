@@ -9,7 +9,7 @@ public class Aufg1cUserInputWhileSchleife {
             System.out.println("Die Eingabe darf nicht leer sein. Bitte versuche es erneut:");
             userName = scObj.nextLine();
         }
-        System.out.println("Welcome " + userName);
+        System.out.println("Willkommen, " + userName + "!");
     }
 }
 
