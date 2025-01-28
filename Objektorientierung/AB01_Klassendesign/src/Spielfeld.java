@@ -26,7 +26,16 @@ public class Spielfeld {
             }
             System.out.println();
         }
-
-
+    }
+    public int findeFreienPlatz(int spalte) {
+        if (spalte < 0 || spalte >= SPALTEN) {
+            return -1;
+        }
+        for (int zeile = ZEILEN - 1; zeile >= 0; zeile--) {
+            if (spielsteine[zeile][spalte] == LEERES_SYMBOL) {
+                return zeile;
+            }
+        }
+        return -1;
     }
 }
